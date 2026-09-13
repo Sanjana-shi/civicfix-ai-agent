@@ -1,0 +1,6 @@
+{
+  "name": "CivicFix AI — Agentic AI Public Issue Resolution Platform",
+  "description": "Agentic AI platform that transforms citizens' natural-language civic reports into actionable resolution workflows, authority routing, and real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
